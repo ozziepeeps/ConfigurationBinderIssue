@@ -1,4 +1,7 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿//#:package Microsoft.Extensions.Configuration.Binder@9.0.10
+#:package Microsoft.Extensions.Configuration.Binder@10.0.0-rc.1.25517.107
+
+using Microsoft.Extensions.Configuration;
 
 namespace Demo
 {
